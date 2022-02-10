@@ -1,5 +1,5 @@
 @echo off
-
-for %%A in ("uno" "dos" "tres" "cuatro" "cinco" "seis")(
-    echo %%A
+cls
+for %%B in ("uno" "dos" "tres" "cuatro" "cinco" "seis") do (
+    echo %%B
 )

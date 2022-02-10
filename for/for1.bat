@@ -1,4 +1,5 @@
 @echo off
+cls
 ::en este codigo se hara un bucle 
 
 

@@ -4,3 +4,9 @@
 4. Pedir un texto y mostrar todos los verbos que empiecen por el texto
 5. Pedir un texto y mostrar lodos los cmdlet que empiecen por el texto
 S. Salir"
+
+function mostrarAlias {
+
+    Read-Host [string]$alias=""
+    
+}
